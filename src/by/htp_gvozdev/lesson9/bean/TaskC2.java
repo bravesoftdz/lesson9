@@ -9,7 +9,7 @@ public class TaskC2 {
 		System.out.println("\ntask C-2");
 		//System.out.println("-----------------------------------------------------------------------");
 		String s = "Aleksander Nikolaevich Gvozdev";
-		s = s.replaceAll(" Nikolaevich", "");
+		s = s.replaceAll(" N.*h", "");
 		System.out.println(s); // abcd
 	}
 }
