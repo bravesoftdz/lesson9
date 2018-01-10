@@ -9,7 +9,7 @@ public class TaskA1 {
 
 	public static void getTaskA1() {
 		System.out.println("task A-1");
-		System.out.println("-----------------------------------------------------------------------");
+		//System.out.println("-----------------------------------------------------------------------");
 		String str = "java is e very good language!";
 		int k = 2;
 		String temp;

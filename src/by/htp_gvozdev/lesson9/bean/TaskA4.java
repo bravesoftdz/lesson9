@@ -1,10 +1,11 @@
 package by.htp_gvozdev.lesson9.bean;
 
+/* 4. В тексте после k-го символа вставить заданную подстроку. */
 public class TaskA4 {
 	public static void getTaskA4() {
-		/* 4. В тексте после k-го символа вставить заданную подстроку. */
+
 		System.out.println("\ntask A-4");
-		System.out.println("-----------------------------------------------------------------------");
+		//System.out.println("-----------------------------------------------------------------------");
 		StringBuilder str1 = new StringBuilder();
 		String str2 = new String();
 		int insertIndex = 8;

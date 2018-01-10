@@ -9,7 +9,7 @@ package by.htp_gvozdev.lesson9.bean;
 public class TaskA2ASCII {
 	public static void getTaskA2ASCII() {
 		System.out.println("\n\ntask A-2(ASCII)");
-		System.out.println("-----------------------------------------------------------------------");
+		//System.out.println("-----------------------------------------------------------------------");
 		StringBuilder str = new StringBuilder();
 		str.append("hello world");
 		String codeStr = "";

@@ -10,7 +10,7 @@ public class TaskA9 {
 		 * встречается в нем.
 		 */
 		System.out.println("\ntask A-9");
-		System.out.println("-----------------------------------------------------------------------");
+		//System.out.println("-----------------------------------------------------------------------");
 		String str = "Вот тут, тут повторяются слова!";
 		String[] words = str.toLowerCase().replaceAll("[-.?!(),:]", "").split(" ");
 

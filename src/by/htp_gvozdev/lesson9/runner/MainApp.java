@@ -1,11 +1,11 @@
 package by.htp_gvozdev.lesson9.runner;
 
-import by.htp_gvozdev.lesson9.TaskC11;
 import by.htp_gvozdev.lesson9.bean.TaskA1;
 import by.htp_gvozdev.lesson9.bean.TaskA2ASCII;
 import by.htp_gvozdev.lesson9.bean.TaskA2Alphabet;
 import by.htp_gvozdev.lesson9.bean.TaskA4;
 import by.htp_gvozdev.lesson9.bean.TaskA9;
+import by.htp_gvozdev.lesson9.bean.TaskC11;
 import by.htp_gvozdev.lesson9.bean.TaskC2;
 
 /*

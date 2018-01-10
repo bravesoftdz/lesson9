@@ -10,7 +10,7 @@ public class TaskA2Alphabet {
 
 	public static void getTaskA2Alphabet() {
 		System.out.println("\n\ntask A-2(Alphabet)");
-		System.out.println("-----------------------------------------------------------------------");
+		//System.out.println("-----------------------------------------------------------------------");
 		String alphabet = "abcdefghijklmnopqrstuvwxyz".toLowerCase();
 		StringBuilder oldStr = new StringBuilder();
 		oldStr.append("hello world");
